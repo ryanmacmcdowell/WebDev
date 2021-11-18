@@ -1,0 +1,8 @@
+body {background-color: bisque;}
+p {color: blueviolet; border: 2pxsolid black; margin:auto; line-height: 5em;}
+table, th, td {border: 2px solid black; color:crimson; margin:auto; line-height: 2em;}
+img {border-radius: 70%; width: 40vw; margin: auto; line-height: 5 em;}
+div {border:3px black; line-height: 5em;}
+ol {line-height: 3 em; margin:auto}
+ul {line-height: 3 em; margin:auto}
+.expanded {width: 60vw; transition:.5s} 
